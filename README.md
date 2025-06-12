@@ -14,7 +14,7 @@ This work addresses the challenge that multiple GRNs can explain the same transc
 3. Applied **PCA** to reveal four distinct GRN families.  
 4. Identified **key subnetwork structures** differentiating those families.  
 
-The resulting methodology enhances our understanding of GRN heterogeneity during kidney injury and repair :contentReference[oaicite:1]{index=1}.
+The resulting methodology enhances our understanding of GRN heterogeneity during kidney injury and repair 
 
 ---
 
